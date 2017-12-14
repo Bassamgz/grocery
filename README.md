@@ -45,13 +45,13 @@ Shared functionality across eFruit
   - Place orders.
   - View order history.
 
-### Testing
+## Testing
 - Sample of unit tests for projects
 #### Frameworks
 - xunit.
 - Moq
 
-#### Deployment
+## Deployment
 1- Download solution.
 2- Update database connection in:-
   - Grocery.Web.eFruit\appsettings.json
