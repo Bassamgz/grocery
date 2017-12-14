@@ -53,15 +53,21 @@ Shared functionality across eFruit
 
 ## Deployment
 1- Download solution.
+
 2- Update database connection in:-
   - Grocery.Web.eFruit\appsettings.json
   - Grocery.API.eFruitService\appsettings.json
   - Grocery.Core.Data\eFruitEntities.cs
+
 3- Run Update-Database in Package Manager for project Console Grocery.Core.Data.
+
 4- Publish Grocery.Web.eFruit.
+
 5- Publish Grocery.API.eFruitService.
+
 6- Install Grocery.Core.Tasks.ProductRefresher as a Windows Service.
   - Run the service with action:install and it will install the service.
   - Run the service without arguments and it runs like console app.
   - Refer to installation guide for more details [a link](https://github.com/PeterKottas/DotNetCore.WindowsService)
+
 7- Enjoy :)
