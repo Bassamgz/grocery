@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.0.0" />
     <PackageReference Include="PeterKottas.DotNetCore.WindowsService" Version="2.0.3" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.0.2" />
@@ -26,12 +27,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Grocery.Core.Data.Model\Grocery.Core.Data.Model.csproj" />
     <ProjectReference Include="..\Grocery.Core.Extension\Grocery.Core.Extension.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="Microsoft.Extensions.Configuration.Abstractions">
-      <HintPath>..\..\..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.configuration.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
 </Project>
