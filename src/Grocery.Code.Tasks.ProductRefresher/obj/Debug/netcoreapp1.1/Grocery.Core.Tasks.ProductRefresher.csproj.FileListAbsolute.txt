@@ -1,0 +1,4 @@
+C:\Data\Stuff\Projects\apoteket\src\Grocery.Code.Tasks.ProductRefresher\obj\Debug\netcoreapp1.1\Grocery.Core.Tasks.ProductRefresher.csprojResolveAssemblyReference.cache
+C:\Data\Stuff\Projects\apoteket\src\Grocery.Code.Tasks.ProductRefresher\obj\Debug\netcoreapp1.1\Grocery.Core.Tasks.ProductRefresher.csproj.CoreCompileInputs.cache
+C:\Data\Stuff\Projects\apoteket\src\Grocery.Code.Tasks.ProductRefresher\obj\Debug\netcoreapp1.1\Grocery.Core.Tasks.ProductRefresher.AssemblyInfoInputs.cache
+C:\Data\Stuff\Projects\apoteket\src\Grocery.Code.Tasks.ProductRefresher\obj\Debug\netcoreapp1.1\Grocery.Core.Tasks.ProductRefresher.AssemblyInfo.cs

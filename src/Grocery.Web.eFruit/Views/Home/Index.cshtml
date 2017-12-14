@@ -1,0 +1,54 @@
+﻿@using Grocery.Web.eFruit.Extensions
+@model PaginatedList<Grocery.Core.Data.Model.DTO.Product>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h2>Products</h2>
+
+@foreach (var item in Model)
+{
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            <h1 class="panel-title">@item.Name</h1>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-xs-4 col-md-3">
+                    Price
+                </div>
+                <div class="col-xs-8 col-md-9">
+                    @item.Price.ToString("c")
+                </div>
+            </div>
+        </div>
+        <div class="panel-footer">
+            <div class="row">
+                <div class="col-xs-6">
+                    <a title="Add To Cart"
+                       class="btn btn-sm btn-default"
+                       asp-controller="Cart" asp-action="AddToCartAsync" asp-route-productId="@item.Id">
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index"
+   asp-route-page="@(Model.PageIndex - 1)"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a asp-action="Index"
+   asp-route-page="@(Model.PageIndex + 1)"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>

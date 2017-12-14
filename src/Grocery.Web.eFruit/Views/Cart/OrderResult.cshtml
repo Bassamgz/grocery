@@ -1,0 +1,21 @@
+﻿@model OrderResultViewModel
+@{
+    ViewBag.Title = "Order result";
+}
+
+<h2>Order result</h2>
+
+<table class="table">
+    <tr>
+        <td>
+            @if (Model.IsSuccessfull)
+            {
+                <span style="color:darkgreen; font-size:medium" class="success glyphicon glyphicon-ok-circle">@Model.OrderReference is Placed! </span>
+            }
+            else
+            {
+                <span style="color:red;font-size:medium" class="danger glyphicon glyphicon-remove-circle">Seems our systems is facing some troubles, retry later! </span>
+            }
+        </td>
+    </tr>
+</table>

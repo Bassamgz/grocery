@@ -1,0 +1,9 @@
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.Core.Data.Model\Debug\netstandard2.0\Grocery.Core.Data.Model.deps.json
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.Core.Data.Model\Debug\netstandard2.0\Grocery.Core.Data.Model.dll
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.Core.Data.Model\Debug\netstandard2.0\Grocery.Core.Data.Model.pdb
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data.Model\Debug\netstandard2.0\Grocery.Core.Data.Model.csprojResolveAssemblyReference.cache
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data.Model\Debug\netstandard2.0\Grocery.Core.Data.Model.csproj.CoreCompileInputs.cache
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data.Model\Debug\netstandard2.0\Grocery.Core.Data.Model.AssemblyInfoInputs.cache
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data.Model\Debug\netstandard2.0\Grocery.Core.Data.Model.AssemblyInfo.cs
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data.Model\Debug\netstandard2.0\Grocery.Core.Data.Model.dll
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data.Model\Debug\netstandard2.0\Grocery.Core.Data.Model.pdb

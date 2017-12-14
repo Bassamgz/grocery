@@ -1,0 +1,13 @@
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\Grocery.API.eFruitService.Tests.deps.json
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\Grocery.API.eFruitService.Tests.runtimeconfig.json
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\Grocery.API.eFruitService.Tests.runtimeconfig.dev.json
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\Grocery.API.eFruitService.Tests.dll
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\Grocery.API.eFruitService.Tests.pdb
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\Grocery.API.eFruitService.Tests.csproj.CoreCompileInputs.cache
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\Grocery.API.eFruitService.Tests.AssemblyInfoInputs.cache
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\Grocery.API.eFruitService.Tests.AssemblyInfo.cs
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\Grocery.API.eFruitService.Tests.dll
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService.Tests\Debug\netcoreapp2.0\Grocery.API.eFruitService.Tests.pdb

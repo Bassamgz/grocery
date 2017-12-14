@@ -1,0 +1,79 @@
+﻿@using Grocery.Web.eFruit.Extensions
+@using System.Linq
+@model PaginatedList<Grocery.Core.Data.Model.DTO.CartItem>
+
+@{
+    ViewBag.Title = "Cart Items";
+}
+
+<h2>Cart Items</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().Cost)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().AddedOn)
+        </th>
+        <th>
+            Actions
+        </th>
+        <th></th>
+    </tr>
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Quantity)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Cost)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.AddedOn)
+                </td>
+                <td class="danger">
+                    @Html.ActionLink("Delete", "DeleteItemFromCartAsync", new { productId = item.ProductId },
+                   new { onclick = "return confirm('Are you sure you wish to delete this item?');" })
+                    <span class="glyphicon glyphicon-remove-circle"></span>
+                </td>
+            </tr>
+        }
+    }
+
+    <tr class="success">
+        <td>
+            @Html.ActionLink("Place Order", "PlaceOrderAsync", new { },
+              new { onclick = "return confirm('Are you sure you wish to place this order?');" })
+            <span class="glyphicon glyphicon-ok-circle"></span>
+        </td>
+    </tr>
+</table>
+
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index"
+   asp-route-page="@(Model.PageIndex - 1)"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a asp-action="Index"
+   asp-route-page="@(Model.PageIndex + 1)"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>

@@ -1,0 +1,11 @@
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.deps.json
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.runtimeconfig.json
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.runtimeconfig.dev.json
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.dll
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.pdb
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.csprojResolveAssemblyReference.cache
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.csproj.CoreCompileInputs.cache
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.AssemblyInfoInputs.cache
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.AssemblyInfo.cs
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.dll
+C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.API.eFruitService\Debug\netcoreapp2.0\Grocery.API.eFruitService.pdb
