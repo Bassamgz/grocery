@@ -3,7 +3,7 @@ eFruit is the new e-commerce platform which aims to modernize and digitalize the
 Implemented using:-
   - VS 2017.
   - SQL Server 2017
-  - .NET Core 2.0
+  - .NET Core 2.2
 
 ## Architecture
 - eFruit is implemented in Onion architecture applying SOLID principles.
