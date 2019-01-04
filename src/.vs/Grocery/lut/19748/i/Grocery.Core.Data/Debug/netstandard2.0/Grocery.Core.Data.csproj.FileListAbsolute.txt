@@ -1,9 +1,0 @@
-C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.Core.Data\Debug\netstandard2.0\Grocery.Core.Data.deps.json
-C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.Core.Data\Debug\netstandard2.0\Grocery.Core.Data.dll
-C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\b\Grocery.Core.Data\Debug\netstandard2.0\Grocery.Core.Data.pdb
-C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data\Debug\netstandard2.0\Grocery.Core.Data.csprojResolveAssemblyReference.cache
-C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data\Debug\netstandard2.0\Grocery.Core.Data.csproj.CoreCompileInputs.cache
-C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data\Debug\netstandard2.0\Grocery.Core.Data.AssemblyInfoInputs.cache
-C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data\Debug\netstandard2.0\Grocery.Core.Data.AssemblyInfo.cs
-C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data\Debug\netstandard2.0\Grocery.Core.Data.dll
-C:\Data\Stuff\Projects\apoteket\src\.vs\Grocery\lut\0\i\Grocery.Core.Data\Debug\netstandard2.0\Grocery.Core.Data.pdb
